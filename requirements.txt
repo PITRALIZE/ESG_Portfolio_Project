@@ -1,0 +1,11 @@
+yfinance
+pandas
+numpy
+tensorflow
+scikit-learn
+scipy
+redis
+streamlit
+plotly
+streamlit-autorefresh
+joblib
